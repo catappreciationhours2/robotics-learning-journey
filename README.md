@@ -1,4 +1,4 @@
-# Robotics Software Engineer: Zero to Hireable
+# Robotics Software Engineer:
 ### A 9-Week Hands-On Learning Roadmap
 **Target Date:** August 25, 2026 | **Pace:** ~15 hrs/week | **Focus:** ROS2, Gazebo, Nav2, MoveIt2, OpenRMF
 
